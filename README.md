@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Larneyy
+- 👋 Hi, I’m @Larney
 - 👀 I’m interested in ... Cryptocurrency and Tech
 - 🌱 I’m currently learning ... JavaScript
 - 💞️ I’m looking to collaborate on ... Satellite Communication
