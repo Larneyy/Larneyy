@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Larney
-- 👀 I’m interested in ... Cryptocurrency and Tech
-- 🌱 I’m currently learning ... JavaScript
-- 💞️ I’m looking to collaborate on ... Satellite Communication and Digital Marketing 
+- 👀 I’m interested in ... Cryptocurrencies and Blockchain Tech
+- 🌱 I’m currently learning ... Rust and Leo
+- 💞️ I’m looking to collaborate on ... smart contract building and deploying
 - 📫 How to reach me ... enonkan4@gmail.com
 
 <!---
